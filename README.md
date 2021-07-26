@@ -1,5 +1,6 @@
 # marvelpowergroup
 A small landing page with full responsiveness.
+The project is written on the basis of the ScSS preprocessor and built using Gulp.
 ## By MVRUN
 ### Technologies:
 - HTML(BEM methodology)
